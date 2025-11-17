@@ -364,11 +364,4 @@ For questions or issues:
 
 This project is licensed under the MIT License. See `LICENSE` file (if present) for details.
 
-## 👥 Team
-
-**ShefaFlow** was created by the PLP Web Technologies community as part of the CSS Layouts and Responsive Design course.
-
----
-
-**Last Updated**: November 17, 2025  
-**Version**: 1.0.0
+Live Link -  https://purriemwau.github.io/ShefaFlow/
