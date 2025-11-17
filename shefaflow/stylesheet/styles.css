@@ -1,0 +1,75 @@
+/* General page styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+  color: #333;
+}
+
+/* Header styling */
+header {
+  background: #007BFF;
+  color: white;
+  padding: 15px;
+  position: relative; /* allows nav to be positioned inside */
+}
+
+header h1 {
+  margin: 0;
+}
+
+/* Navigation boxes positioned top-right */
+.nav-boxes {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  display: flex;
+  gap: 10px;
+}
+
+/* Style links as boxes */
+.nav-boxes a {
+  display: inline-block;       /* makes them behave like boxes */
+  background: white;
+  color: #007BFF;
+  padding: 8px 12px;
+  border-radius: 5px;
+  font-weight: bold;
+  border: 2px solid #007BFF;
+  text-decoration: none;       /* removes underline */
+  transition: background 0.3s, color 0.3s;
+}
+
+/* Hover effect */
+.nav-boxes a:hover {
+  background: #007BFF;
+  color: white;
+}
+
+/* Main content styling */
+main {
+  padding: 20px;
+}
+
+/* Footer styling */
+footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Gallery layout */
+.gallery {
+  display: flex;
+  gap: 10px;
+}
+
+.gallery img {
+  border: 2px solid #007BFF;
+  border-radius: 5px;
+}
