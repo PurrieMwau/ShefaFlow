@@ -365,3 +365,5 @@ For questions or issues:
 This project is licensed under the MIT License. See `LICENSE` file (if present) for details.
 
 Live Link -  https://purriemwau.github.io/ShefaFlow/
+
+Pitchdeck link - https://docs.google.com/presentation/d/1Upl59KcUtK1xcyAK0ZhAWhNY_Rb67_Cx/edit?usp=drive_link&ouid=103303447667185256739&rtpof=true&sd=true
